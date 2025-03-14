@@ -9,5 +9,5 @@ num3 = float(input("Digite o terceiro número: "))
 
 media = (num1 + num2 + num3) / 3
 
-print("Média: ", media)
+print("Média: ",media)
 
